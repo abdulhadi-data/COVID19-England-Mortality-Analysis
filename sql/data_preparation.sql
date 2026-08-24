@@ -1,7 +1,5 @@
 -- COVID-19 Mortality Analysis
 -- Data preparation and local authority harmonisation
--- Extracted from Appendix A1 of the submitted project report.
--- The SQL logic below has been preserved from the original coursework.
 
 BEGIN TRANSACTION;
 
